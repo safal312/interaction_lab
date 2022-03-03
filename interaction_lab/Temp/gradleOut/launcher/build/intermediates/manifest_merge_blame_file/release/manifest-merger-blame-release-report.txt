@@ -150,7 +150,7 @@
 82-->[:unityLibrary] /Volumes/SAVE HERE/ss13750/interaction_lab/interaction_lab/interaction_lab/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:9-75:68
 83            android:name="unity.build-id"
 83-->[:unityLibrary] /Volumes/SAVE HERE/ss13750/interaction_lab/interaction_lab/interaction_lab/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-42
-84            android:value="7e2fb42f-4b2b-4f9a-afb7-6f9f791fd49b" />
+84            android:value="7584a063-d505-492f-ba32-de1c97915508" />
 84-->[:unityLibrary] /Volumes/SAVE HERE/ss13750/interaction_lab/interaction_lab/interaction_lab/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:75:13-65
 85        <meta-data
 85-->[:unityLibrary] /Volumes/SAVE HERE/ss13750/interaction_lab/interaction_lab/interaction_lab/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:76:9-78:39
